@@ -1,0 +1,17 @@
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Release\netcoreapp3.1\RegisterSimulationLab1.exe
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Release\netcoreapp3.1\RegisterSimulationLab1.deps.json
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Release\netcoreapp3.1\RegisterSimulationLab1.runtimeconfig.json
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Release\netcoreapp3.1\RegisterSimulationLab1.runtimeconfig.dev.json
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Release\netcoreapp3.1\RegisterSimulationLab1.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Release\netcoreapp3.1\RegisterSimulationLab1.pdb
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Release\netcoreapp3.1\System.CodeDom.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Release\netcoreapp3.1\System.Management.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Release\netcoreapp3.1\RegisterSimulationLab1.csprojAssemblyReference.cache
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Release\netcoreapp3.1\RegisterSimulationLab1.AssemblyInfoInputs.cache
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Release\netcoreapp3.1\RegisterSimulationLab1.AssemblyInfo.cs
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Release\netcoreapp3.1\RegisterSimulationLab1.csproj.CoreCompileInputs.cache
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Release\netcoreapp3.1\RegisterSimulationLab1.csproj.CopyComplete
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Release\netcoreapp3.1\RegisterSimulationLab1.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Release\netcoreapp3.1\RegisterSimulationLab1.pdb
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Release\netcoreapp3.1\RegisterSimulationLab1.genruntimeconfig.cache

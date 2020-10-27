@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "hacCZFPBM9Ci1IYB5Xpl39H24BxwSV+ZFs3+McUxd1VuEmOTrskTqhglK8A2lK/P1+CE7WNWXtqTG7MMFz3L7g==",
+  "success": true,
+  "projectFilePath": "E:\\OZI-master\\лаб2\\RegisterSimulationLab1\\GetInfo\\GetInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрей\\.nuget\\packages\\google.api.commonprotos\\2.1.0\\google.api.commonprotos.2.1.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\system.management\\4.7.0\\system.management.4.7.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

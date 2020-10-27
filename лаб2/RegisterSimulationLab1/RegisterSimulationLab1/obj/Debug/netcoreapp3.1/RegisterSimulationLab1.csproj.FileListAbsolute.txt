@@ -1,0 +1,41 @@
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.exe
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.deps.json
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.runtimeconfig.json
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.dll
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.pdb
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.dll
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.pdb
+C:\Users\Asus\source\repos\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.genruntimeconfig.cache
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.exe
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.deps.json
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.runtimeconfig.json
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.runtimeconfig.dev.json
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.dll
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.pdb
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.AssemblyInfoInputs.cache
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.AssemblyInfo.cs
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.csproj.CoreCompileInputs.cache
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.dll
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.pdb
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.genruntimeconfig.cache
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.exe
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.deps.json
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.runtimeconfig.json
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.runtimeconfig.dev.json
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\RegisterSimulationLab1.pdb
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.AssemblyInfoInputs.cache
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.AssemblyInfo.cs
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.pdb
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.genruntimeconfig.cache
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.csproj.CopyComplete
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\RegisterSimulationLab1\obj\Debug\netcoreapp3.1\RegisterSimulationLab1.csproj.CoreCompileInputs.cache

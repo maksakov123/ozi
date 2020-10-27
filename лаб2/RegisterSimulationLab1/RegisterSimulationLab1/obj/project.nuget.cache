@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "26PGMK4HM5rsocpEuXdcTpTfOXAz9unE4/Zft4knP8btkVPoe1gkvphYBrAEQKcwJdhfXxqNoYM4nGzBhAMNBw==",
+  "success": true,
+  "projectFilePath": "E:\\OZI-master\\лаб2\\RegisterSimulationLab1\\RegisterSimulationLab1\\RegisterSimulationLab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрей\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\system.management\\4.7.0\\system.management.4.7.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

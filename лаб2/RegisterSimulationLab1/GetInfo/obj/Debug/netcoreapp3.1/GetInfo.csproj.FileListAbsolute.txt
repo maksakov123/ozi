@@ -1,0 +1,38 @@
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\GetInfo.exe
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\GetInfo.deps.json
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\GetInfo.runtimeconfig.json
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\GetInfo.runtimeconfig.dev.json
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\GetInfo.dll
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\GetInfo.pdb
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.AssemblyInfoInputs.cache
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.AssemblyInfo.cs
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.dll
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.pdb
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.genruntimeconfig.cache
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.csprojAssemblyReference.cache
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.csproj.CopyComplete
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\4 курс\Основи захисту інформації\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.csproj.CoreCompileInputs.cache
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\GetInfo.exe
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\GetInfo.deps.json
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\GetInfo.runtimeconfig.json
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\GetInfo.runtimeconfig.dev.json
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\GetInfo.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\GetInfo.pdb
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.csprojAssemblyReference.cache
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.AssemblyInfoInputs.cache
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.AssemblyInfo.cs
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.csproj.CopyComplete
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.dll
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.pdb
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.genruntimeconfig.cache
+D:\4 курс\Моделювання систем\RegisterSimulationLab1\GetInfo\obj\Debug\netcoreapp3.1\GetInfo.csproj.CoreCompileInputs.cache
